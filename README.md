@@ -7,7 +7,7 @@ This is the main directory for data and support files for data visualizations re
 
 
 ### Project Motivation
-The purpose of this project is to provide data visualization about Proposition 23, which would invoke new rules for Dialysis Clinics. This GitHub repository contains code for team Dialysis Analysis for the [2020 CA Data Challenge](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) sponsored by [UC Davis DataLab](https://datalab.ucdavis.edu/) and the [Scholars Strategy Network](https://scholars.org/chapter/sacramento). Our goal is to provide data visualizations that will allow voters to make an informed decision about Proposition 23 during the 2020 California election.
+The purpose of this project is to provide data visualization about California Proposition 23, which would invoke new rules for Dialysis Clinics. This GitHub repository contains code for team Dialysis Analysis for the [2020 CA Data Challenge](https://datalab.ucdavis.edu/ca-election-2020-data-challenge/) sponsored by [UC Davis DataLab](https://datalab.ucdavis.edu/) and the [Scholars Strategy Network](https://scholars.org/chapter/sacramento). Our goal is to provide data visualizations that will allow voters to make an informed decision about Proposition 23 during the 2020 California election.
 
 ![images/CAelections_data_challenge_crop.png](images/CAelections_data_challenge_crop.png)
 
@@ -115,7 +115,7 @@ Data source: CalMatters Voter Guides [2018](https://elections.calmatters.org/201
 ## Presentation Materials
 
 * [GoogleSlides Project](https://docs.google.com/presentation/d/1Kj2hrljppQqMJ6o5uBiWpjsh3AuWezkAFw5PeJTg7K4/edit?usp=sharing)
-* [Video Presentation](https://www.youtube.com/watch?v=T1yhpXEX2QU&feature=youtu.be&ab_channel=HyunsooKim)
+* [Video Presentation](https://youtu.be/9WLFby5FJVM)
 
 ## References
 
